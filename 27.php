@@ -3,7 +3,7 @@ if (session_status() === PHP_SESSION_NONE) {
     session_start();
 }
 
-// SHA256 hash untuk password 'tiger'
+// SHA256 hash untuk password 'root'
 $hashed_password = 'f15c16b99f82d8201767d3a841ff40849c8a1b812ffbfd2e393d2b6aa6682a6e';
 
 ini_set('display_errors', 1);
